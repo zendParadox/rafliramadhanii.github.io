@@ -1,0 +1,34 @@
+.jumbotron {
+  padding: 0%;
+  padding-top: 7rem;
+  background-color: #b1d0e0;
+}
+
+#about {
+  background-color: #f6f5f5;
+}
+
+#projects {
+  background-color: #b1d0e0;
+}
+
+.display-4 {
+  font-family: "Poppins", Courier, monospace;
+}
+
+.navbar-brand {
+  font-family: "Poppins", Courier, monospace;
+}
+
+#contact {
+  background-color: #f6f5f5;
+}
+
+.container1 {
+  background-color: #b1d0e0;
+  padding-bottom: 2rem;
+}
+
+section {
+  padding-top: 5rem;
+}
